@@ -46,8 +46,8 @@ To set up the DistilCLIP project, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/sidmanale643/CLIP-From-Scratch.git
-   cd CLIP-From-Scratch
+   git clone https://github.com/sidmanale643/Distil-CLIP.git
+   cd Distil-CLIP
    ```
 
 2. Install the required dependencies:
