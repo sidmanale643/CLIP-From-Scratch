@@ -10,6 +10,8 @@ DistilCLIP is inspired by OpenAI's CLIP but substitutes the original encoders wi
 - **Text Encoder**: Pretrained DistilBERT
 - **Multimodal Projection**: Linear layers that project both image and text features into a shared latent space, following a CLIP-like architecture.
 
+![image](https://github.com/user-attachments/assets/922d11d0-2a9f-4afb-98c5-2443420f57b6)
+
 ## Dataset
 
 "lambdalabs/naruto-blip-captions" on HuggingFace
@@ -34,7 +36,9 @@ Key details:
 
 ## Results
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/886d0913-1531-43e1-9a29-6d28d42c56ca)
+
+
 
 ## Installation
 
