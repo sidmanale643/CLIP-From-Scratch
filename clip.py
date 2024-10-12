@@ -2,6 +2,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 from transformers import DistilBertTokenizer, DistilBertModel
+from vision_transformer import config , ViT 
 
 class TextEncoder(nn.Module):
     def __init__(self, proj_dim):
